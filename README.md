@@ -17,6 +17,14 @@ Made for developers, and users.
 * Uses program languages like, lua, C++, and Python.
 * Able to modify code later using Visual Studio Code, and Built in text editor.
 
+## Build
+
+* Frist, In terminal type.
+ 
+  ```
+  git https://github.com/aapplios/appbi.git
+  ```
+
 ## Licensed under Apache 2.0
 
 ### Copyright 2026 appbi.
